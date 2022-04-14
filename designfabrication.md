@@ -6,11 +6,14 @@ filename: designfabrication
 
 # Design and Fabrication
 
+![SizeComparison](./images/design/SizeComparison.PNG)
 
-{images/design/SizeComparison.PNG
-{images/design/NewFingerDiagram.PNG}
-{images/design/PalmDrawing10.PNG}
-{images/design/NewThumbDiagram.PNG}
+![NewFingerDiagram](./images/design/NewFingerDiagram.PNG)
 
-{images/design/BaseDrawing4.PNG}
-{images/design/Full4.PNG}
+![PalmDrawing10](./images/design/PalmDrawing10.PNG)
+
+![NewThumbDiagram](./images/design/NewThumbDiagram.PNG)
+
+![BaseDrawing4](./images/design/BaseDrawing4.PNG)
+
+![Full4](./images/design/Full4.PNG)

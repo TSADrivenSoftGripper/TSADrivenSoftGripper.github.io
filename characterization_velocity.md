@@ -4,7 +4,10 @@ layout: template
 filename: characterization_velocity
 --- 
 
-{images/velocity/velocityMotorInputSequence.eps}
-{images/velocity/velocityPosition.eps}
-{images/velocity/motorVelocity_fingerVelocity.eps}
-{images/velocity/jacobian.eps}
+![velocityMotorInputSequence](./images/velocity/velocityMotorInputSequence.eps)
+
+![velocityPosition](./images/velocity/velocityPosition.eps)
+
+![motorVelocity_fingerVelocity](./images/velocity/motorVelocity_fingerVelocity.eps)
+
+![jacobian](./images/velocity/jacobian.eps)
