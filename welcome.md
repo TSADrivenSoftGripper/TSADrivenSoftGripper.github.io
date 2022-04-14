@@ -6,4 +6,4 @@ filename: welcome
 
 # Introduction
 
-![1-power-grasp](images/1-power-grasp.png)
+![1-power-grasp](./images/1-power-grasp.png)
