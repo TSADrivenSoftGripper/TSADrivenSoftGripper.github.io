@@ -1,7 +1,7 @@
 ---
-title: Introduction
+title: Welcome
 layout: template
-filename: introduction
+filename: welcome
 --- 
 
 # Introduction
