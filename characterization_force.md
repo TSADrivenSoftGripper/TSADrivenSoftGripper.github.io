@@ -1,5 +1,7 @@
 ---
-title: Grasping
+title: Force Characterization
 layout: template
-filename: grasping
+filename: characterization_force
 --- 
+
+# Force Characterization
