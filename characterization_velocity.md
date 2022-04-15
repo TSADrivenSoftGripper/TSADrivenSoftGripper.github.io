@@ -6,10 +6,10 @@ filename: characterization_velocity
 
 # Velocity Characterization
 
-![velocityMotorInputSequence](./images/velocity/velocityMotorInputSequence.eps)
+![velocityMotorInputSequence](./images/velocity/velocityMotorInputSequence.png)
 
-![velocityPosition](./images/velocity/velocityPosition.eps)
+![velocityPosition](./images/velocity/velocityPosition.png)
 
-![motorVelocity_fingerVelocity](./images/velocity/motorVelocity_fingerVelocity.eps)
+![motorVelocity_fingerVelocity](./images/velocity/motorVelocity_fingerVelocity.png)
 
-![jacobian](./images/velocity/jacobian.eps)
+![jacobian](./images/velocity/jacobian.png)
