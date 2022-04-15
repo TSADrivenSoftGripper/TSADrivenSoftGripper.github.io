@@ -1,10 +1,13 @@
 ---
-title: Grasping
+title: In-Hand Manipulation
 layout: template
-filename: grasping
+filename: manipulation
 --- 
 
-{images/InHandManipulation/NewManipulationAxes.PNG}}
-{images/InHandManipulation/FlippingScrewdriver.png}}
-{images/InHandManipulation/RollingBall.png}}
-{images/InHandManipulation/RotatingMarker.png}}
+![NewManipulationAxes](./images/InHandManipulation/NewManipulationAxes.PNG)
+
+![FlippingScrewdriver](./images/InHandManipulation/FlippingScrewdriver.png)
+
+![RollingBall](./images/InHandManipulation/RollingBall.png)
+
+![RotatingMarker](./images/InHandManipulation/RotatingMarker.png)

@@ -1,7 +1,7 @@
 ---
-title: Grasping
+title: Thumb Characterization
 layout: template
-filename: grasping
+filename: characterization_thumb
 --- 
 
 ![thumb_timewise](./images/thumb/thumb_timewise.eps)

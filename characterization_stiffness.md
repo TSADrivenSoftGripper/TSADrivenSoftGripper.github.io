@@ -1,7 +1,7 @@
 ---
-title: Grasping
+title: Stiffness Characterization
 layout: template
-filename: grasping
+filename: characterization_stiffness
 --- 
 
 {images/stiffness_image.png}

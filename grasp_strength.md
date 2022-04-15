@@ -1,7 +1,7 @@
 ---
-title: Grasping
+title: Grasp Strength
 layout: template
-filename: grasping
+filename: grasp_strength
 --- 
 
 ![GraspingStrength](./images/GraspingStrength/GraspingStrength.PNG)

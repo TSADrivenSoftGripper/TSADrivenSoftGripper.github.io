@@ -1,7 +1,7 @@
 ---
 title: Design and Fabrication
 layout: template
-filename: designfabrication
+filename: design_fabrication
 --- 
 
 # Design and Fabrication

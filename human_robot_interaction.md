@@ -1,8 +1,11 @@
 ---
-title: Grasping
+title: Human-Robot Interaction
 layout: template
-filename: grasping
+filename: human_robot_interaction
 --- 
 
-{images/HRI/Handshake.PNG}}
-{images/HRI/FistBump.PNG}}
+# Human-Robot Interaction
+
+![Handshake](./images/HRI/Handshake.PNG)
+
+![FistBump](./images/HRI/FistBump.PNG)
