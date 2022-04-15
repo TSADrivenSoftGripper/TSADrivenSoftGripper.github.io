@@ -8,8 +8,8 @@ filename: grasp_strength
 
 ![GraspingStrength](./images/GraspingStrength/GraspingStrength.PNG)
 
-![dumbell](./images/poses/dumbell.PNG)
+![dumbell](./images/poses/dumbell.png)
 
-![Dumbbell2](./images/poses/Dumbbell2.PNG)
+![Dumbbell2](./images/poses/Dumbbell2.png)
 
-![Dumbbell3](./images/poses/Dumbbell3.PNG)
+![Dumbbell3](./images/poses/Dumbbell3.png)
