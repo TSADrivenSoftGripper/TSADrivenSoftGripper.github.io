@@ -4,6 +4,8 @@ layout: template
 filename: kapandji_test
 --- 
 
+# The Kapandji Test
+
 ![KapandjiSummary](./images/KapandjiTest/KapandjiSummary.PNG)
 
 ![Kapandji1_2](./images/KapandjiTest/Kapandji1_2.PNG)

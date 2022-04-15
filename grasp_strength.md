@@ -4,6 +4,8 @@ layout: template
 filename: grasp_strength
 --- 
 
+# Grasp Strength
+
 ![GraspingStrength](./images/GraspingStrength/GraspingStrength.PNG)
 
 ![dumbell](./images/poses/dumbell.PNG)

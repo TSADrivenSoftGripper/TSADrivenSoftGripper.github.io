@@ -4,6 +4,8 @@ layout: template
 filename: manipulation
 --- 
 
+# In-Hand Manipulation
+
 ![NewManipulationAxes](./images/InHandManipulation/NewManipulationAxes.PNG)
 
 ![FlippingScrewdriver](./images/InHandManipulation/FlippingScrewdriver.png)

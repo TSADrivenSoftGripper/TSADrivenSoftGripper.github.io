@@ -3,6 +3,7 @@ title: Introduction
 layout: template
 filename: index
 ---
+
 # Introduction
 
 ![tsa_sorting_mechanism](./images/tsa_sorting_mechanism.png)

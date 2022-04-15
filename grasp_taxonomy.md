@@ -4,6 +4,8 @@ layout: template
 filename: grasp_taxonomy
 --- 
 
+# Taxonomy of Achievable Grasps
+
 ![GRASP1](./images/GRASPTaxonomy/GRASP1.png)
 
 ![GRASP2](./images/GRASPTaxonomy/GRASP2.png)
