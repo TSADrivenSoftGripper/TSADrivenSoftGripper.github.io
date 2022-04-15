@@ -3,7 +3,7 @@ title: Bending Angle Characterization
 layout: template
 filename: characterization_position
 ---
-# Experimental Characterization: Position
+# Bending Angle Characterization
 
 ![IMU_locations](./images/IMU_locations.png)
 
